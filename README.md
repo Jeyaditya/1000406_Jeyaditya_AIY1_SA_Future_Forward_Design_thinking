@@ -1,5 +1,5 @@
 # FutureForward Wellness: AI-Integrated Stress Relief Prototype
-Prototype link: [https://codepen.io/editor/Jeyaditya/pen/019d90d8-808a-7fce-bebb-67a429d9ae43?file=%2Findex.html&orientation=top&panel=files&show=preview]
+Prototype link: [Live prototype in Codepen][https://codepen.io/editor/Jeyaditya/pen/019d90d8-808a-7fce-bebb-67a429d9ae43?file=%2Findex.html&orientation=top&panel=files&show=preview]
 ## Project Overview
 This project is an interactive, browser-based prototype designed to combat workplace stress and 'Technical Burnout.' It uses simulated AI biometric analysis to dynamically adjust sensory environments (light, sound, aroma) for professional users in high-stress corporate environments.
 
